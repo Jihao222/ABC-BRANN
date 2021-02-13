@@ -9,7 +9,7 @@ Paper is available on https://doi.org/10.1016/j.psep.2019.05.046
 ### ABC-BRANN Architecture
 
 <div align="center">
-	<img src="img/approach.jpg" width="40%" height="5%"/>
+	<img src="img/approach.jpg" width="80%" height="10/>
 </div>
 </a>.
 
